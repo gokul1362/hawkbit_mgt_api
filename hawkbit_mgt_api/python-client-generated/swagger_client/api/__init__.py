@@ -1,0 +1,19 @@
+from __future__ import absolute_import
+
+# flake8: noqa
+
+# import apis into api package
+from swagger_client.api.actions_api import ActionsApi
+from swagger_client.api.basic_authentication_api import BasicAuthenticationApi
+from swagger_client.api.distribution_set_tags_api import DistributionSetTagsApi
+from swagger_client.api.distribution_set_types_api import DistributionSetTypesApi
+from swagger_client.api.distribution_sets_api import DistributionSetsApi
+from swagger_client.api.download_artifact_api import DownloadArtifactApi
+from swagger_client.api.rollouts_api import RolloutsApi
+from swagger_client.api.software_module_types_api import SoftwareModuleTypesApi
+from swagger_client.api.software_modules_api import SoftwareModulesApi
+from swagger_client.api.system_configuration_api import SystemConfigurationApi
+from swagger_client.api.target_filter_queries_api import TargetFilterQueriesApi
+from swagger_client.api.target_tags_api import TargetTagsApi
+from swagger_client.api.target_types_api import TargetTypesApi
+from swagger_client.api.targets_api import TargetsApi
