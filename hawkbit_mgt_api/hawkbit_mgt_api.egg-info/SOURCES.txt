@@ -1,0 +1,7 @@
+LICENSE.txt
+setup.py
+hawkbit_mgt_api/hawkbit_mgt_api.egg-info/PKG-INFO
+hawkbit_mgt_api/hawkbit_mgt_api.egg-info/SOURCES.txt
+hawkbit_mgt_api/hawkbit_mgt_api.egg-info/dependency_links.txt
+hawkbit_mgt_api/hawkbit_mgt_api.egg-info/requires.txt
+hawkbit_mgt_api/hawkbit_mgt_api.egg-info/top_level.txt
